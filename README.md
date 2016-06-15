@@ -9,4 +9,4 @@ And after seeing his work and fun games I thought it would be great practice to 
 
 The current stage of this game, it is playable but super basic.
 I am still working on finding an assigning more audio, images, and action.
-TO BE CONTINUED.
+TO BE CONTINUED...
